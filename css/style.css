@@ -1,0 +1,291 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.container{
+    margin: auto;
+    width: 1290px;
+    /* background-color: pink; */
+
+}
+.square{
+    position: absolute;
+    top: -75px;
+    right: -74px;
+    width: 500px;
+    height: 523px;
+    border-radius: 251px;
+
+    background-color:#e84a42;
+    z-index: -1;
+}
+.navbar{
+    overflow: hidden;
+    padding: 10px;
+}
+body{
+   height: 2000px;
+}
+.nav h1{
+    float:left;
+    padding: 10px;
+
+}
+.nav ul{
+    list-style: none;
+    display: inline-block;
+    text-align: center;
+    margin-left: 99px;
+
+}
+.clear{
+    clear: both;
+}
+.nav ul li{
+    display: inline-block;
+    padding: 20px;
+    font-size: 18px;
+    float: left;
+}
+.nav button{
+    padding: 10px;
+margin: 10px;
+float: right;
+margin-right: 63px;
+width: 126px;
+background-color: #fff;
+border: none;
+color: #FA1F14;
+font-size: 18px;
+}
+.content{
+    /* background-color: #DDD; */
+    overflow: hidden;
+}
+.content .tt{
+    /* background-color: #DDD; */
+    float: left;
+width: 60%;
+margin-top: 139px;
+}
+.tt button{
+    margin-top: 30px;
+    padding: 10px;
+background-color: #FA1F14;
+border: none;
+color: #fff;
+width: 126px;
+font-size: 18px;
+}
+.content h2{
+
+line-height: 40px;
+font-size: 40px;
+
+}
+
+.content hr{
+width: 70px;  
+margin-top: 20px;  
+margin-bottom: 20px;  
+color:red;background-color:red;
+border: none;
+height: 4px;
+
+    }
+    .content .img{
+    float: right;
+    width: 40%;
+    margin-left: 0;
+}
+.content p{
+
+font-size: 18px;
+line-height: 27px;
+}
+.wrapper{
+position: relative;
+overflow: hidden;
+}
+.square2{
+    margin-top: 9px;
+    margin-left: -74px;
+    width: 203px;
+    height: 200px;
+    border-radius: 251px;
+    background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
+
+}
+
+.contentt{
+    /* background-color: #DDD; */
+    overflow: hidden;
+    position: relative;
+}
+.contentt .tt{
+    /* background-color: #DDD; */
+ 
+    margin-top: 38px;
+
+float: right;
+width: 40%;
+}
+.tt button{
+    margin-top: 30px;
+    padding: 10px;
+background-color: #101386;
+}
+.contentt h2{
+
+line-height: 40px;
+font-size: 40px;
+color:#FA1F14;
+
+}
+.contentt p{
+
+    font-size: 18px;
+    line-height: 27px;
+    }
+.contentt hr{
+width: 70px;  
+margin-top: 20px;  
+margin-bottom: 20px;  
+color:gray;
+background-color:gray;
+border: none;
+height: 4px;
+
+    }
+    .contentt .img{
+    float: left;
+    width: 60%;
+    
+}
+.square3{
+    position: absolute;
+    top: 310px;
+    right: -74px;
+    width: 150px;
+    height: 150px;
+    border-radius: 251px;
+
+    background-color: #ea543c;
+
+}
+.org{
+    background-color: #ff2704;
+}
+
+.contenttt{
+    /* background-color: #DDD; */
+    overflow: hidden;
+}
+.contenttt .tt{
+    /* background-color: #DDD; */
+    float: left;
+width: 60%;
+margin-top: 100px;
+text-align: center;
+}
+.tt button{
+    margin-top: 30px;
+    padding: 10px;
+
+}
+.contenttt p{
+
+color: #fff;
+    }
+.contenttt h2{
+color: #fff;
+line-height: 40px;
+font-size: 40px;
+margin-bottom: 20px;
+}
+.contenttt .img{
+    float: left;
+    width: 40%;
+    transform: rotate(35deg);
+}
+.group{
+margin-top: 100px;
+
+}
+.gro1{
+    float: left;
+    width: 33.33333%;
+}
+.gro2{
+    width: 33.33333%;
+    float: left;
+
+}
+.gro3{
+    width: 33.33333%;
+    float: left;
+
+}
+.gro3 h3{
+    color: #ff2704;
+
+}
+.gro1 h5{
+    margin-bottom: 20px;
+
+}
+.gro1 ul{
+list-style: none;
+}
+.gro1 ul li{
+float: left;
+margin-right: 15px;
+}
+.gro1 p{
+    margin-top: 20px;
+    color: #ff2704;
+    margin-top: 3px;
+
+}
+
+ .gro2 .icon span{
+     margin-left: 50px;
+ }
+ .gro3 span{
+    margin-right: 15px;
+
+ }
+ .gro3 h3{
+     margin-bottom:8px ;
+ }
+ .gro3 p{
+    margin-bottom:15px ;
+}
+.fa-facebook-official:before {
+    color: #7f7fd2;
+}
+.fa-instagram:before {
+    content: "\f16d";
+    color: #a84ab9;
+}
+.fa-linkedin-square:before {
+    content: "\f08c";
+    color: #3c85b9;
+}
+.fa-twitter:before {
+    content: "\f099";
+    color: #4595da;
+}
+.fa-map-marker:before {
+    color: #ff2704;
+
+}
+.fa-phone:before {
+    color: #ff2704;
+}
+.fa-envelope:before {
+    color: #ff2704;
+
+}
+
+

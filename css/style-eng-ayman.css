@@ -1,0 +1,79 @@
+
+.square {
+    position: absolute; /* Modified engineer Ayman */
+    top: -245px;
+    right: -74px;
+    width: 800px;/* Modified engineer Ayman */
+    height: 800px;/* Modified engineer Ayman */
+    margin-right: -97px;/* Modified engineer Ayman */
+    border-radius: 50%;/* Modified engineer Ayman */
+    background-color: #D3CB5B;/* Modified engineer Ayman */
+    z-index: -1;
+}
+
+
+h2 ,h3 ,.gro1 p ,.fa-envelope::before , .fa-phone::before , .fa-map-marker::before {
+    
+    color: #504B93 !important /* Modified engineer Ayman */
+}
+
+button.butredu {
+    border-radius: 12px; /* Modified engineer Ayman */
+}
+
+
+.contenttt h2 {
+    color: #fff !important; /* Modified engineer Ayman */
+}
+
+.contenttt .tt {
+    /* background-color: #DDD; */
+    /* float: left; */ /* Modified engineer Ayman */
+    width: 60%;
+    margin-top: 132px; /* Modified engineer Ayman */
+    position: absolute;  /* Modified engineer Ayman */
+    /* top: 7px; */
+    margin-bottom: 21px; /* Modified engineer Ayman */
+    text-align: center;
+}
+
+.container .tt button , button.butredu{
+    background-color: #504baf !important;
+    color: #fff !important;
+    cursor: pointer;
+}
+
+.contenttt .img {
+    /* float: left; */
+    width: 40%;
+    position: relative; /* Modified engineer Ayman */
+    top: -11px; /* Modified engineer Ayman */
+    left: 814px; /* Modified engineer Ayman */
+    /* right: 29px; */
+    transform: rotate(35deg);
+}
+.org {
+    background-color: #504B93; /* Modified engineer Ayman */
+}
+
+
+.content hr {
+   
+    color: #D3A35B; /* Modified engineer Ayman */
+    background-color: #D3A35B; /* Modified engineer Ayman */
+}
+
+.square3 {
+    
+    background-color: #D3A35B;/* Modified engineer Ayman */
+}
+
+.square2 {
+    background: linear-gradient(to bottom, #504B93 0%, #D3CB5B 100%);/* Modified engineer Ayman */
+    margin-left: -101px;/* Modified engineer Ayman */
+}
+
+.img .phone {
+    margin-left: -33px;/* Modified engineer Ayman */
+}
+
